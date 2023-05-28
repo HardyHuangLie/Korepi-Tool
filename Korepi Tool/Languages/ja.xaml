@@ -1,0 +1,37 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+              xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <sys:String x:Key="Banner">バナー</sys:String>
+    <sys:String x:Key="StartGame">開始</sys:String>
+    <sys:String x:Key="InjectDelete">遅延</sys:String>
+    <sys:String x:Key="GameStata">ゲームの状態</sys:String>
+    <sys:String x:Key="GameProtect">保護</sys:String>
+    <sys:String x:Key="IsNotOpen">未オープン</sys:String>
+    <sys:String x:Key="Non">なし</sys:String>
+    <sys:String x:Key="SettingMsg">ゲームが実行中です。ゲームを先に閉じてください。</sys:String>
+    <sys:String x:Key="IsClose">閉じました</sys:String>
+    <sys:String x:Key="IsOpen">有効</sys:String>
+    <sys:String x:Key="IsRun">実行中</sys:String>
+    <sys:String x:Key="Close">ゲームを閉じる</sys:String>
+    <sys:String x:Key="ChooseFile">ファイルを選択してください</sys:String>
+    <sys:String x:Key="ChoosePath">先にパスを選択してください</sys:String>
+    <sys:String x:Key="FailCloseProtect">保護を閉じるのに失敗しました</sys:String>
+    <sys:String x:Key="FailCreatShortCut">ショートカットの作成に失敗しました</sys:String>
+    <sys:String x:Key="PathError">パスエラー</sys:String>
+    <sys:String x:Key="OpenGanshinFail">原神プログラムを開くのに失敗しました</sys:String>
+    <sys:String x:Key="WriteMemoryFail">メモリへの書き込みに失敗しました</sys:String>
+    <sys:String x:Key="Setting">設定</sys:String>
+    <sys:String x:Key="ChoosePath_Setting">パスを選択する</sys:String>
+    <sys:String x:Key="GamePath">ゲームのパス：</sys:String>
+    <sys:String x:Key="DelayTime">インジェクション遅延：</sys:String>
+    <sys:String x:Key="OK">OK</sys:String>
+    <sys:String x:Key="CloseProtect">保護を無効にする</sys:String>
+    <sys:String x:Key="CreateShortCut">デスクトップショートカットの作成</sys:String>
+    <sys:String x:Key="AutoSearch">自動検索</sys:String>
+    <sys:String x:Key="Msg">保護を閉じないと、バナーが削除されない可能性があります。続行しますか？</sys:String>
+    <sys:String x:Key="Sign">警告</sys:String>
+    <sys:String x:Key="FindUpdate">新しいバージョンが検出されました</sys:String>
+    <sys:String x:Key="Update">更新中</sys:String>
+    <sys:String x:Key="UpdateSuccess">更新が完了しました</sys:String>
+    <sys:String x:Key="DownloadFail">ファイルのダウンロードに失敗しました</sys:String>
+</ResourceDictionary>

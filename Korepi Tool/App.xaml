@@ -1,0 +1,14 @@
+﻿<Application x:Class="Korepi_Tool.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Korepi_Tool"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source = "Languages/en-US.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+            <FontFamily x:Key="Icons">Fonts/#Segoe Fluent Icons</FontFamily>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

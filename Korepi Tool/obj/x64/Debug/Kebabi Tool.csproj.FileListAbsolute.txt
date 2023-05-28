@@ -1,0 +1,38 @@
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\bin\x64\Debug\Kebabi Tool.exe.config
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\bin\x64\Debug\Kebabi Tool.exe
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\bin\x64\Debug\Kebabi Tool.pdb
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\bin\x64\Debug\Memory.xml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Kebabi Tool.csproj.AssemblyReference.cache
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Kebabi Tool.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Kebabi Tool.csproj.ResolveComReference.cache
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Languages\en-US.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Languages\zh-TW.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Page\Home.g.cs
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Page\Setting.g.cs
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Page\Update.g.cs
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\App.g.cs
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Kebabi Tool_MarkupCompile.cache
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Kebabi Tool_MarkupCompile.lref
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\App.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\MainWindow.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Page\Home.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Page\Setting.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Page\Update.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Kebabi Tool.g.resources
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Kebabi_Tool.Properties.Resources.resources
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Kebabi Tool.csproj.GenerateResource.cache
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Kebabi Tool.csproj.CoreCompileInputs.cache
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Kebabi Tool.csproj.Fody.CopyLocal.cache
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Kebabi Tool.csproj.CopyComplete
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Kebabi Tool.exe
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Kebabi Tool.pdb
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Languages\ru.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Languages\ja.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Languages\zh-CN.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Languages\pt-PT.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Korepi Tool_MarkupCompile.cache
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\x64\Debug\Korepi Tool_MarkupCompile.lref

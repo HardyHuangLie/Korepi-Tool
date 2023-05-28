@@ -1,0 +1,37 @@
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Korepi Tool.csproj.AssemblyReference.cache
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Korepi Tool.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Korepi Tool.csproj.ResolveComReference.cache
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Languages\en-US.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Languages\ja.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Languages\pt-PT.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Languages\ru.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Languages\zh-CN.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Languages\zh-TW.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\MainWindow.g.cs
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Page\Home.g.cs
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Page\Setting.g.cs
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Page\Update.g.cs
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\App.g.cs
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Korepi Tool_MarkupCompile.cache
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Korepi Tool_MarkupCompile.lref
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\bin\Debug\Korepi Tool.exe.config
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\bin\Debug\Korepi Tool.exe
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\bin\Debug\Korepi Tool.pdb
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\bin\Debug\Memory.xml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\App.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\MainWindow.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Page\Home.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Page\Setting.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Page\Update.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Korepi Tool.g.resources
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Korepi_Tool.Properties.Resources.resources
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Korepi Tool.csproj.GenerateResource.cache
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Korepi Tool.csproj.CoreCompileInputs.cache
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Korepi Tool.csproj.Fody.CopyLocal.cache
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Korepi Tool.csproj.CopyComplete
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Korepi Tool.exe
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\obj\Debug\Korepi Tool.pdb
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Korepi Tool\Korepi Tool\bin\Debug\WpfAnimatedGif.xml

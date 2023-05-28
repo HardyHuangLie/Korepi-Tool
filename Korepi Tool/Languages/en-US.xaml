@@ -1,0 +1,37 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                 xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                 xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <sys:String x:Key="Banner">Banner</sys:String>
+    <sys:String x:Key="StartGame">Start</sys:String>
+    <sys:String x:Key="InjectDelete">Inject Delay</sys:String>
+    <sys:String x:Key="GameStata">Game Status</sys:String>
+    <sys:String x:Key="GameProtect">Protection</sys:String>
+    <sys:String x:Key="IsNotOpen">Not Open</sys:String>
+    <sys:String x:Key="Non">None</sys:String>
+    <sys:String x:Key="SettingMsg">The game is running. Please close the game first.</sys:String>
+    <sys:String x:Key="IsClose">Closed</sys:String>
+    <sys:String x:Key="IsOpen">Enabled</sys:String>
+    <sys:String x:Key="IsRun">Running</sys:String>
+    <sys:String x:Key="Close">Close Game</sys:String>
+    <sys:String x:Key="ChooseFile">Please choose a file</sys:String>
+    <sys:String x:Key="ChoosePath">Please select a path first</sys:String>
+    <sys:String x:Key="FailCloseProtect">Failed to close protection</sys:String>
+    <sys:String x:Key="FailCreatShortCut">Failed to create shortcut</sys:String>
+    <sys:String x:Key="PathError">Path Error</sys:String>
+    <sys:String x:Key="OpenGanshinFail">Failed to open Genshin Impact program</sys:String>
+    <sys:String x:Key="WriteMemoryFail">Failed to write memory</sys:String>
+    <sys:String x:Key="Setting">Settings</sys:String>
+    <sys:String x:Key="ChoosePath_Setting">Choose Path</sys:String>
+    <sys:String x:Key="GamePath">Game Path:</sys:String>
+    <sys:String x:Key="DelayTime">Injection Delay:</sys:String>
+    <sys:String x:Key="OK">OK</sys:String>
+    <sys:String x:Key="CloseProtect">Disable Protection</sys:String>
+    <sys:String x:Key="CreateShortCut">Create Desktop Shortcut</sys:String>
+    <sys:String x:Key="AutoSearch">Auto Search</sys:String>
+    <sys:String x:Key="Msg">Not closing the protection may result in the banner not being removed. Are you sure you want to continue?</sys:String>
+    <sys:String x:Key="Sign">Warning</sys:String>
+    <sys:String x:Key="FindUpdate">New Version Detected</sys:String>
+    <sys:String x:Key="Update">Updating</sys:String>
+    <sys:String x:Key="DownloadFail">File Download Failed</sys:String>
+    <sys:String x:Key="UpdateSuccess">Update completed</sys:String>
+</ResourceDictionary>

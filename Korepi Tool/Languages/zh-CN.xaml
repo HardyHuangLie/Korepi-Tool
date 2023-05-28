@@ -1,0 +1,37 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                 xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                 xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <sys:String x:Key="Banner">横幅</sys:String>
+    <sys:String x:Key="StartGame">开始游戏</sys:String>
+    <sys:String x:Key="InjectDelete">注入延迟</sys:String>
+    <sys:String x:Key="GameStata">游戏状态</sys:String>
+    <sys:String x:Key="GameProtect">游戏保护</sys:String>
+    <sys:String x:Key="IsNotOpen">未开启</sys:String>
+    <sys:String x:Key="Non">无</sys:String>
+    <sys:String x:Key="SettingMsg">游戏正在运行，请先关闭游戏</sys:String>
+    <sys:String x:Key="IsClose">已关闭</sys:String>
+    <sys:String x:Key="IsOpen">已启用</sys:String>
+    <sys:String x:Key="IsRun">执行中</sys:String>
+    <sys:String x:Key="Close">关闭游戏</sys:String>
+    <sys:String x:Key="ChooseFile">请选择文件</sys:String>
+    <sys:String x:Key="ChoosePath">请先选择路径</sys:String>
+    <sys:String x:Key="FailCloseProtect">关闭保护失败</sys:String>
+    <sys:String x:Key="FailCreatShortCut">创建快捷方式失败</sys:String>
+    <sys:String x:Key="PathError">路径错误</sys:String>
+    <sys:String x:Key="OpenGanshinFail">打开原神程序失败</sys:String>
+    <sys:String x:Key="WriteMemoryFail">写入内存失败</sys:String>
+    <sys:String x:Key="Setting">设置</sys:String>
+    <sys:String x:Key="ChoosePath_Setting">选择路径</sys:String>
+    <sys:String x:Key="GamePath">游戏路径：</sys:String>
+    <sys:String x:Key="DelayTime">注入延迟：</sys:String>
+    <sys:String x:Key="OK">确定</sys:String>
+    <sys:String x:Key="CloseProtect">关闭保护</sys:String>
+    <sys:String x:Key="CreateShortCut">创建桌面快捷方式</sys:String>
+    <sys:String x:Key="AutoSearch">自动搜索</sys:String>
+    <sys:String x:Key="Msg">未关闭保护可能导致横幅无法移除，确定要继续吗？</sys:String>
+    <sys:String x:Key="Sign">警告</sys:String>
+    <sys:String x:Key="FindUpdate">检测到新版本</sys:String>
+    <sys:String x:Key="Update">更新中</sys:String>
+    <sys:String x:Key="DownloadFail">文件下载失败</sys:String>
+    <sys:String x:Key="UpdateSuccess">更新完成</sys:String>
+</ResourceDictionary>

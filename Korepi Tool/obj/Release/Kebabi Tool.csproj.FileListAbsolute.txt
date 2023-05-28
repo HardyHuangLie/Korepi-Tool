@@ -1,0 +1,36 @@
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\bin\Release\Kebabi Tool.exe.config
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\bin\Release\Kebabi Tool.exe.manifest
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\bin\Release\Kebabi Tool.application
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\bin\Release\Kebabi Tool.exe
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\bin\Release\Kebabi Tool.pdb
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\bin\Release\Memory.xml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\bin\Release\Newtonsoft.Json.xml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Kebabi Tool.csproj.AssemblyReference.cache
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Kebabi Tool.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Kebabi Tool.csproj.ResolveComReference.cache
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\MainWindow.g.cs
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Page\Banner.g.cs
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Page\Home.g.cs
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Page\Setting.g.cs
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Page\Update.g.cs
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\App.g.cs
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Kebabi Tool_MarkupCompile.cache
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Kebabi Tool_MarkupCompile.lref
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\App.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\MainWindow.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Page\Banner.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Page\Home.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Page\Setting.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Page\Update.baml
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Kebabi Tool.g.resources
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Kebabi_Tool.Properties.Resources.resources
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Kebabi Tool.csproj.GenerateResource.cache
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Kebabi Tool.csproj.CoreCompileInputs.cache
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Kebabi Tool.csproj.Fody.CopyLocal.cache
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Kebabi Tool.exe.manifest
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Kebabi Tool.application
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Kebabi Tool.csproj.CopyComplete
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Kebabi Tool.exe
+C:\Users\Hardy\OneDrive\桌面\Code\Visual studio\Kebabi Tool\Kebabi Tool\obj\Release\Kebabi Tool.pdb
